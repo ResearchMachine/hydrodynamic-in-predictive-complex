@@ -2,7 +2,7 @@
 **Project Type:** Commercial project, Physics Modeling  
 **Programming Language:** Python 3 (fipy, matplotlib, numpy)  
 **Project Сode:**  [FipyFracSolver.ipynb](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/FipyFracSolver.ipynb)  
-**Project Full Description** (in Russian):  [Description.pdf](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/Description.pdf)
+**Project Full Description** (in Russian):  [Description.pdf](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/Description.pdf)  
 **Company:**  Gazpromneft Technology Partnerships LLC. 
 
 
@@ -22,18 +22,19 @@ Tasks:
 * implementation of the prototype in Python.  
 
 ### III. Key Results 
-The model solver (finite element method, fipy library) was selected, which made it possible to repeat the result of the commercial simulator tNavigator (maximum deviation 5%).
+Results:  
+* Selected the optimal solver for the model in terms of computation speed (finite element method with mesh thickening in the crack area, the model is a non-linear diffusion equation in partial derivatives);  
+* Adapted the solver to the conditions of the problem, developed a Python 3 prototype and made a forecast of the production volume of one well.  
+* 5% - maximum deviation from the commercial simulator tNavigator.  
 
 
 ### IV. Content
+Input data: description of the model from company experts, operator of a commercial simulator.  
+Problems: artifacts of model nonlinearity.  
+Methods: nonlinear differential equations, numerical and analytical methods, Python 3, Jupyter Notebook.  
 
 
 
-Input data: description of the model from company experts, operator of a commercial simulator.
-
-Problems: artifacts of model nonlinearity.
-
-Methods: nonlinear differential equations, numerical and analytical methods, Python 3, Jupyter Notebook.
-
-
+**Project Сode:**  [FipyFracSolver.ipynb](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/FipyFracSolver.ipynb)  
+**Project Full Description** (in Russian):  [Description.pdf](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/Description.pdf)  
 
