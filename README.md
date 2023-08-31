@@ -6,9 +6,6 @@
 **Company:**  Gazpromneft Technology Partnerships LLC. 
 
 
-Hydrodynamic Simulator Development. Forecast of Oil Production of special Group of Wells, Finite Element Method.
-individual commercial project. Company: Gazpromneft Technology Partnerships LLC (RUS). Programming Language: Python 3 (fipy, matplotlib, numpy).
-
 ### I. Motivation
 Earlier in the project [(2021) Complex Predictive Model Transfer](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex) the complex model was transferred from Excel format to VBA format. This model does not take into account hydrodynamics, which leads to the need for manual fitting of the model.
 Existing software does not allow taking into account a key reservoir property (permeability depends on pressure) when calculating production volume, which leads to the need to adapt models by varying reservoir parameters and hydraulic fracture properties arbitrarily - this leads to the risk of making incorrect decisions in terms of multi-stage hydraulic fracturing technology.
