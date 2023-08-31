@@ -2,8 +2,8 @@
 **Project Type:** Commercial project, Physics Modeling  
 **Programming Language:** Python 3 (fipy, matplotlib, numpy)  
 **Project Сode:**  [FipyFracSolver.ipynb](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/FipyFracSolver.ipynb)  
-**Project Full Description** (in Russian): 
-**Company:** 
+**Project Full Description** (in Russian):  [Description.pdf](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/Description.pdf)
+**Company:**  Gazpromneft Technology Partnerships LLC. 
 
 
 Hydrodynamic Simulator Development. Forecast of Oil Production of special Group of Wells, Finite Element Method.
