@@ -19,7 +19,6 @@ Tasks:
 * implementation of the prototype in Python.  
 
 ### III. Key Results 
-Results:  
 * Selected the optimal solver for the model in terms of computation speed (finite element method with mesh thickening in the crack area, the model is a non-linear diffusion equation in partial derivatives);  
 * Adapted the solver to the conditions of the problem, developed a Python 3 prototype and made a forecast of the production volume of one well.  
 * 5% - maximum deviation from the commercial simulator tNavigator.  
