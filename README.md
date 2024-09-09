@@ -24,7 +24,8 @@ Tasks:
 
 
 ### IV. Content
-Input data: description of the model from company experts, operator of a commercial simulator.  
+Real parameters of wells changed (NDA).  
+Input data: description of the model from company engineers.  
 Problems: artifacts of model nonlinearity.  
 Methods: nonlinear differential equations, numerical and analytical methods, Python 3, Jupyter Notebook.  
 
