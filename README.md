@@ -34,5 +34,4 @@ Methods: nonlinear differential equations, numerical and analytical methods, Pyt
 **The results of the prototype: the distribution of pressure around the well and the volume of oil production per day.**
 
 **Project Сode:**  [FipyFracSolver.ipynb](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/FipyFracSolver.ipynb)  
-**Project Full Description** (in Russian):  [Description.pdf](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/Description.pdf)  
 
