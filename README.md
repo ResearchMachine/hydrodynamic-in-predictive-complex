@@ -1,7 +1,6 @@
 # Forecast of Oil Production of Special Group of Wells. Hydrodynamic Simulator Development, Finite Element Method.
 **Programming Language:** Python 3 (fipy, matplotlib, numpy)  
 **Project Сode:**  [FipyFracSolver.ipynb](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/FipyFracSolver.ipynb)  
-**Project Full Description** (in Russian):  [Description.pdf](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/Description.pdf)  
 **Company:**  Gazpromneft Technology Partnerships LLC. 
 
 
