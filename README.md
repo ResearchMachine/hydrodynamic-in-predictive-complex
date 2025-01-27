@@ -5,11 +5,11 @@
 
 
 ### I. Motivation
-Earlier in the project [(2021) Complex Predictive Model Transfer](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex) the complex model was transferred from Excel format to VBA format. This model does not take into account hydrodynamics, which leads to the need for manual fitting of the model.
+Company model does not take into account hydrodynamics equation (only approximation), which leads to the need for manual fitting of the model.
 Existing software does not allow taking into account a key reservoir property (permeability depends on pressure) when calculating production volume, which leads to the need to adapt models by varying reservoir parameters and hydraulic fracture properties arbitrarily - this leads to the risk of making incorrect decisions in terms of multi-stage hydraulic fracturing technology.
 
 ### II. Problem
-The main goal of this project is the introduction of a hydrodynamic model into the forecast complex.
+The main goal of this project is the introduction of a hydrodynamic model (2D Quasilinear Diffusion Equation) into the forecast complex.
 Tasks:
 * selection of the optimal model solver for performance;  
 * comparison of model results with the commercial simulator tNavigator;  
