@@ -11,7 +11,6 @@
 
 ### II. Technical Objectives  
 Developed a physics-based forecasting solution through:  
-* Systematic evaluation of numerical solvers for computational efficiency  
 * Benchmarking against industry-standard tNavigator simulator  
 * Implementation of 2D quasilinear diffusion equation for pressure/flow rate forecasting  
 * Python prototype development for production deployment  
