@@ -39,3 +39,10 @@ Developed a physics-based forecasting solution through:
 *Figure 1: Simulated pressure distribution and daily production volume*  
 
 **Solution Code:** [FiPy Fracture Solver](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/FipyFracSolver.ipynb)  
+
+## License
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
+This project is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+
