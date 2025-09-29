@@ -1,6 +1,6 @@
 
 # Hydrodynamic Simulator for Oil Production Forecasting: Finite Element Method Implementation  
-**NDA:** well parameters changed
+**NDA:** well parameters changed  
 **Programming Language:** Python 3 (FiPy, NumPy, Matplotlib)  
 **Core Solution:** [FiPyFracSolver.ipynb](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/FipyFracSolver.ipynb)  
 **Organization:** Gazpromneft Technology Partnerships LLC  
