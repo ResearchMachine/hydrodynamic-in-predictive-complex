@@ -30,6 +30,10 @@ Developed a physics-based forecasting solution through:
 
 **Visualization:**  
 <img width="676" height="173" alt="image" src="https://github.com/user-attachments/assets/cc610f17-2762-4d79-b259-1024ae5ff39c" />
+<img width="271" height="196" alt="image" src="https://github.com/user-attachments/assets/cbed9676-f217-45ac-9d92-15ebc83c424c" />
+
+
+
 ![Production Forecast](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/assets/70639823/3ac03fb1-9b36-4c4f-b988-9ed75c22c23d)  
 *Figure 1: Simulated pressure distribution and daily production volume*  
 
