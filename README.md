@@ -30,7 +30,7 @@ Developed a physics-based forecasting solution through:
 
 **Visualization:**  
 <img width="676" height="173" alt="image" src="https://github.com/user-attachments/assets/cc610f17-2762-4d79-b259-1024ae5ff39c" />
-<img width="271" height="196" alt="image" src="https://github.com/user-attachments/assets/cbed9676-f217-45ac-9d92-15ebc83c424c" />
+<img width="271" height="196" alt="image" src="https://github.com/user-attachments/assets/cbed9676-f217-45ac-9d92-15ebc83c424c" />  
 *Figure 1: Simulated pressure distribution and daily production volume*  
 
 **Solution Code:** [FiPy Fracture Solver](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/FipyFracSolver.ipynb)  
