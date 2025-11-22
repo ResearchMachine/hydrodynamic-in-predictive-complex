@@ -1,8 +1,8 @@
 
 # Hydrodynamic Simulator for Oil Production Forecasting: Finite Element Method Implementation  
+**Solution Code:** [FiPyFracSolver.ipynb](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/FipyFracSolver.ipynb) 
 **NDA:** well parameters (changed)  
-**Programming Language:** Python 3 (FiPy, NumPy, Matplotlib)  
-**Core Solution:** [FiPyFracSolver.ipynb](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/FipyFracSolver.ipynb)  
+**Coding Language:** Python 3 (FiPy, NumPy, Matplotlib)  
 **Organization:** Gazpromneft Technology Partnerships LLC  
 
 ### I. Business Challenge  
@@ -16,17 +16,13 @@ Developed a physics-based forecasting solution through:
 
 ### III. Key Achievements  
 * Implemented optimized finite element solver with adaptive mesh refinement near fracture zones  
-* Achieved <5% deviation from commercial simulator results while incorporating pressure-permeability relationship  
-* Delivered production-ready Python prototype forecasting well output with physics-based accuracy  
+* Achieved <5% deviation from commercial simulator results while incorporating pressure-permeability relationship   
 * Reduced manual tuning requirements by modeling fundamental hydrodynamics  
 
 ### IV. Technical Implementation  
-**Data & Constraints:**  
 * Real well parameters (confidential under NDA)  
 * Engineering specifications from reservoir experts  
-* Challenge: Nonlinearity artifacts in physical model  
-
-**Methodology:**  
+* Challenge: Nonlinearity artifacts in physical model    
 * Solved nonlinear partial differential equations using:  
   - Finite element method (FiPy)  
   - Adaptive meshing for fracture zones  
