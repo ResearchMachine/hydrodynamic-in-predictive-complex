@@ -29,7 +29,7 @@ Developed a physics-based forecasting solution through:
   - Numerical/analytical hybrid approach  
 
 **Visualization:**  
-<img width="1376" height="453" alt="image" src="https://github.com/user-attachments/assets/cc610f17-2762-4d79-b259-1024ae5ff39c" />
+<img width="1176" height="353" alt="image" src="https://github.com/user-attachments/assets/cc610f17-2762-4d79-b259-1024ae5ff39c" />
 
 
 ![Pressure Distribution](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/assets/70639823/d42dd782-9e78-4415-95f4-d34a72a0364a)  
