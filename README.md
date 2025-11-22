@@ -1,6 +1,6 @@
 
 # Hydrodynamic Simulator for Oil Production Forecasting: Finite Element Method Implementation  
-**NDA:** well parameters changed  
+**NDA:** well parameters (changed)  
 **Programming Language:** Python 3 (FiPy, NumPy, Matplotlib)  
 **Core Solution:** [FiPyFracSolver.ipynb](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex/blob/main/FipyFracSolver.ipynb)  
 **Organization:** Gazpromneft Technology Partnerships LLC  
@@ -8,12 +8,11 @@
 ### I. Business Challenge  
 * Existing approximation-based models required manual parameter tuning due to omitted hydrodynamics fundamentals  
 * Commercial simulators (tNavigator) lacked capability to model pressure-dependent permeability - a critical reservoir characteristic  
-* This limitation forced arbitrary parameter adjustments, compromising decision-making in multi-stage hydraulic fracturing operations  
 
 ### II. Technical Objectives  
 Developed a physics-based forecasting solution through:  
 * Implementation of 2D quasilinear diffusion equation for pressure/flow rate forecasting  
-* Python prototype development for production deployment with open-source libs  
+* Python 3 prototype development for production deployment with open-source libs  
 
 ### III. Key Achievements  
 * Implemented optimized finite element solver with adaptive mesh refinement near fracture zones  
